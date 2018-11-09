@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComunicacionActAFrag</string>
+    <string name="enviar_menaje_al_fragmento">Enviar Menaje Al fragmento</string>
+</resources>
